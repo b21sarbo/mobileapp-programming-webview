@@ -57,7 +57,7 @@ Kodfiguren nedan i figur 1 visar java-koden i MainActivity.java som laddar in ur
 Figur 1, Java-kod som laddar in tillagd htm-fil för både internal och external knapp i appen
 
 I figur 2 visas sidan som kommer upp när man trycker på external i appens meny.
-![](screenie.png)
+![](screnie.png)
 Figur 2, screenshot från den externa sidan
 
 I figur 3 visas sidan som kommer upp när man trycker på internal i appens meny.
